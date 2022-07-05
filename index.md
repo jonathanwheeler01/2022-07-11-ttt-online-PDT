@@ -300,7 +300,6 @@ TWO DAY SCHEDULE
 <!--
 FOUR DAY SCHEDULE
 --->
-<!--
 <div class="row">
   <div class="col-md-6">
     <h3>Day 1</h3>
@@ -352,7 +351,6 @@ FOUR DAY SCHEDULE
   </div>
 </div>
 
--->
 
 
 <!--
