@@ -316,12 +316,12 @@ FOUR DAY SCHEDULE
   <div class="col-md-6">
     <h3>Day 2</h3>
     <table class="table table-striped">
-      <tr> <td>13:35</td> <td>Motivation and Demotivation </td> </tr>
-      <tr> <td>14:35</td> <td>Equity, Inclusion, and Accessibility </td> </tr>
-      <tr> <td>15:15</td> <td>Break </td> </tr>
-      <tr> <td>15:30</td> <td>Teaching Is a Skill </td> </tr>
-      <tr> <td>16:30</td> <td>Wrap-up and Homework </td> </tr>
-      <tr> <td>16:50</td> <td>Finish day 2</td> </tr>
+      <tr> <td>09:00</td> <td>Motivation and Demotivation </td> </tr>
+      <tr> <td>10:00</td> <td>Equity, Inclusion, and Accessibility </td> </tr>
+      <tr> <td>10:45</td> <td>Break </td> </tr>
+      <tr> <td>11:00</td> <td>Teaching Is a Skill </td> </tr>
+      <tr> <td>12:00</td> <td>Wrap-up and Homework </td> </tr>
+      <tr> <td>12:50</td> <td>Finish day 2</td> </tr>
     </table>
   </div>
  </div>
@@ -341,14 +341,14 @@ FOUR DAY SCHEDULE
   <div class="col-md-6">
     <h3>Day 4</h3>
     <table class="table table-striped">
-      <tr> <td>13:30</td> <td>More Practice Live Coding </td> </tr>
-      <tr> <td>14:15</td> <td>Working with Your Team</td> </tr>
-      <tr> <td>15:25</td> <td>Break </td> </tr>
-      <tr> <td>15:40</td> <td>Launches and Landings </td> </tr>
-      <tr> <td>16:20</td> <td>Putting it Together </td> </tr>
-      <tr> <td>16:40</td> <td>Wraping Up </td> </tr>
-      <tr> <td>16:50</td> <td>Post-Training Survey </td> </tr>
-      <tr> <td>17:05</td> <td>Finish </td> </tr>
+      <tr> <td>09:00</td> <td>More Practice Live Coding </td> </tr>
+      <tr> <td>09:45</td> <td>Working with Your Team</td> </tr>
+      <tr> <td>10:55</td> <td>Break </td> </tr>
+      <tr> <td>11:10</td> <td>Launches and Landings </td> </tr>
+      <tr> <td>11:50</td> <td>Putting it Together </td> </tr>
+      <tr> <td>12:10</td> <td>Wraping Up </td> </tr>
+      <tr> <td>12:20</td> <td>Post-Training Survey </td> </tr>
+      <tr> <td>12:35</td> <td>Finish </td> </tr>
     </table>
   </div>
 </div>
